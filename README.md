@@ -1,7 +1,7 @@
 #fines_report.php --> fines report in slims with total fines each week in a month
 
 #fines_report_year.php --> fines report in slims eith total fines each month in a year
-# How too use?
+# How to use?
 1. You can replace file fines_report.php in your slims folder. The path is admin/modules/reporting/customs.
 2. You can add file fines_report_year.php at admin/modules/reporting/customs/. And then add submenu in admin/modules/reporting/customs/customs_report_list.inc.php
    add this code at last row.
