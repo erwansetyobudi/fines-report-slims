@@ -7,4 +7,5 @@ fines report month
 
 
 fines report year
-![image](https://github.com/user-attachments/assets/492ad997-f65d-4840-af39-4cb5e59dcb5a)
+
+![Screenshot 2024-12-03 at 09-49-49 PERPUSTAKAAN SMA KOLESE LOYOLA Sistem Manajemen Perpustakaan Senayan](https://github.com/user-attachments/assets/3b1cc798-5c90-4caa-8cf0-1f7d6a30ea8c)
